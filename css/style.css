@@ -175,7 +175,8 @@ section {
 }
 
 .kontener {
-    padding: 4rem;
+    margin: 2rem;
+    padding: 3rem;
     background-color: var(--warna-biru);
     border-radius: 2rem;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -412,7 +413,8 @@ section {
     }
 
     .kontener {
-        padding: 4rem 0;
+        padding: 2rem;
+        margin: 1rem;
     }
 
   
